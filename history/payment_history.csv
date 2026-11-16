@@ -1,9 +1,0 @@
-invoice_number,invoice_date,vendor_id,vendor_name,amount,paid_date,status
-INV-2025-9901,2025-09-03,V-1001,Meridian Office Supply Co.,1240.00,2025-10-02,paid
-INV-2026-0102,2026-01-12,V-1002,BlueHarbor Logistics Ltd.,2480.00,2026-02-24,paid
-INV-2026-0331,2026-03-18,V-1003,Northgate Cloud Services,2200.00,2026-04-01,paid
-INV-2026-0368,2026-04-07,V-1002,BlueHarbor Logistics Ltd.,890.00,2026-05-20,paid
-INV-2026-0415,2026-05-11,V-1004,Crestline Facilities Group,3750.00,2026-06-09,paid
-INV-2026-0427,2026-06-02,V-1007,Vertex Data Analytics,4100.00,2026-07-01,paid
-INV-2026-0439,2026-06-25,V-1006,Solano Catering Partners,1750.00,2026-07-24,paid
-INV-2026-0455,2026-06-03,V-1002,BlueHarbor Logistics Ltd.,890.00,2026-06-30,paid
